@@ -1,0 +1,4 @@
+float addsub()
+{	float x, z;
+	x - z;
+}
